@@ -1,0 +1,8 @@
+D:\New folder\Class_task2\Class_task2\obj\Debug\Class_task2.csproj.AssemblyReference.cache
+D:\New folder\Class_task2\Class_task2\obj\Debug\Class_task2.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Class_task2\Class_task2\obj\Debug\Class_task2.csproj.CoreCompileInputs.cache
+D:\New folder\Class_task2\Class_task2\bin\Debug\Class_task2.exe.config
+D:\New folder\Class_task2\Class_task2\bin\Debug\Class_task2.exe
+D:\New folder\Class_task2\Class_task2\bin\Debug\Class_task2.pdb
+D:\New folder\Class_task2\Class_task2\obj\Debug\Class_task2.exe
+D:\New folder\Class_task2\Class_task2\obj\Debug\Class_task2.pdb

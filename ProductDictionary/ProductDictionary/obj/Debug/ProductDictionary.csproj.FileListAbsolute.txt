@@ -1,0 +1,8 @@
+D:\New folder\ProductDictionary\ProductDictionary\bin\Debug\ProductDictionary.exe.config
+D:\New folder\ProductDictionary\ProductDictionary\bin\Debug\ProductDictionary.exe
+D:\New folder\ProductDictionary\ProductDictionary\bin\Debug\ProductDictionary.pdb
+D:\New folder\ProductDictionary\ProductDictionary\obj\Debug\ProductDictionary.csproj.AssemblyReference.cache
+D:\New folder\ProductDictionary\ProductDictionary\obj\Debug\ProductDictionary.csproj.SuggestedBindingRedirects.cache
+D:\New folder\ProductDictionary\ProductDictionary\obj\Debug\ProductDictionary.csproj.CoreCompileInputs.cache
+D:\New folder\ProductDictionary\ProductDictionary\obj\Debug\ProductDictionary.exe
+D:\New folder\ProductDictionary\ProductDictionary\obj\Debug\ProductDictionary.pdb

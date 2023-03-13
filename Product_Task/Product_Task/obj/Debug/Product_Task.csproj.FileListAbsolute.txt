@@ -1,0 +1,8 @@
+D:\New folder\Product_Task\Product_Task\bin\Debug\Product_Task.exe.config
+D:\New folder\Product_Task\Product_Task\bin\Debug\Product_Task.exe
+D:\New folder\Product_Task\Product_Task\bin\Debug\Product_Task.pdb
+D:\New folder\Product_Task\Product_Task\obj\Debug\Product_Task.csproj.AssemblyReference.cache
+D:\New folder\Product_Task\Product_Task\obj\Debug\Product_Task.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Product_Task\Product_Task\obj\Debug\Product_Task.csproj.CoreCompileInputs.cache
+D:\New folder\Product_Task\Product_Task\obj\Debug\Product_Task.exe
+D:\New folder\Product_Task\Product_Task\obj\Debug\Product_Task.pdb

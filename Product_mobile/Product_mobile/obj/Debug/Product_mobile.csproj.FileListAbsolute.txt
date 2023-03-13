@@ -1,0 +1,8 @@
+D:\New folder\Product_mobile\Product_mobile\bin\Debug\Product_mobile.exe.config
+D:\New folder\Product_mobile\Product_mobile\bin\Debug\Product_mobile.exe
+D:\New folder\Product_mobile\Product_mobile\bin\Debug\Product_mobile.pdb
+D:\New folder\Product_mobile\Product_mobile\obj\Debug\Product_mobile.csproj.AssemblyReference.cache
+D:\New folder\Product_mobile\Product_mobile\obj\Debug\Product_mobile.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Product_mobile\Product_mobile\obj\Debug\Product_mobile.csproj.CoreCompileInputs.cache
+D:\New folder\Product_mobile\Product_mobile\obj\Debug\Product_mobile.exe
+D:\New folder\Product_mobile\Product_mobile\obj\Debug\Product_mobile.pdb
