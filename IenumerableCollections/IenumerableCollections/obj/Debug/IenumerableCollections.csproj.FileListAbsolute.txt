@@ -1,0 +1,8 @@
+D:\New folder\IenumerableCollections\IenumerableCollections\bin\Debug\IenumerableCollections.exe.config
+D:\New folder\IenumerableCollections\IenumerableCollections\bin\Debug\IenumerableCollections.exe
+D:\New folder\IenumerableCollections\IenumerableCollections\bin\Debug\IenumerableCollections.pdb
+D:\New folder\IenumerableCollections\IenumerableCollections\obj\Debug\IenumerableCollections.csproj.AssemblyReference.cache
+D:\New folder\IenumerableCollections\IenumerableCollections\obj\Debug\IenumerableCollections.csproj.SuggestedBindingRedirects.cache
+D:\New folder\IenumerableCollections\IenumerableCollections\obj\Debug\IenumerableCollections.csproj.CoreCompileInputs.cache
+D:\New folder\IenumerableCollections\IenumerableCollections\obj\Debug\IenumerableCollections.exe
+D:\New folder\IenumerableCollections\IenumerableCollections\obj\Debug\IenumerableCollections.pdb
